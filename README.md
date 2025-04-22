@@ -1,10 +1,14 @@
-# donor_grid
+# DonorGrid
 
-A new Flutter project.
+A Flutter application for connecting blood donors with recipients.
+
+## Project Overview
+
+DonorGrid is a mobile application built with Flutter to streamline the process of blood donation by connecting donors with those in need.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for the DonorGrid Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
